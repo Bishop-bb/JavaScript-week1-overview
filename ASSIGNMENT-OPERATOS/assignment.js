@@ -31,3 +31,60 @@ document.getElementById('o-4').innerHTML= h ;
 document.getElementById('o-5').innerHTML= i ;
 document.getElementById('o-6').innerHTML= j ;
 document.getElementById('o-7').innerHTML= k  ;
+
+
+
+
+
+document.getElementById('sa').innerHTML="Shift Assignment Operator"
+document.getElementById('s1').innerHTML="1. Operator ( <<= )"
+document.getElementById('s2').innerHTML="2. Operator ( >>= )"
+document.getElementById('s3').innerHTML="3. Operator ( >>>= )"
+
+
+
+let l = d << e;
+let m = d >>= e;
+let n = d >>>= e;
+
+
+document.getElementById('s-1').innerHTML= l;
+document.getElementById('s-2').innerHTML= m;
+document.getElementById('s-3').innerHTML= n;
+
+
+
+
+document.getElementById('ba').innerHTML="Bitwise Assignment Operator"
+document.getElementById('b1').innerHTML="1. Operator ( &= )"
+document.getElementById('b2').innerHTML="2. Operator ( ^= )"
+document.getElementById('b3').innerHTML="3. Operator ( |= )"
+
+
+
+let o = d &= e;
+let p = d ^= e;
+let q = d |= e;
+
+
+document.getElementById('b-1').innerHTML= o;
+document.getElementById('b-2').innerHTML= p;
+document.getElementById('b-3').innerHTML= q;
+
+
+
+document.getElementById('la').innerHTML="Logical Assignment Operator"
+document.getElementById('l1').innerHTML="1. Operator ( &&= )"
+document.getElementById('l2').innerHTML="2. Operator ( ||= )"
+document.getElementById('l3').innerHTML="3. Operator ( ??= )"
+
+
+
+let r = d &= e;
+let s = d ^= e;
+let t = d |= e;
+
+
+document.getElementById('l-1').innerHTML= r;
+document.getElementById('l-2').innerHTML= s;
+document.getElementById('l-3').innerHTML= t;

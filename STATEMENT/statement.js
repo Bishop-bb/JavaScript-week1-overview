@@ -15,3 +15,7 @@ document.getElementById('for').innerHTML="6. for - Marks a block of statements t
 document.getElementById('function').innerHTML="7. function - Declares a function";
 document.getElementById('return').innerHTML="8. return - Exits a function";
 document.getElementById('try').innerHTML="9. try - Implements error handling to a block of statements";
+
+
+
+document.getElementById("home").innerHTML= "Click here to return";

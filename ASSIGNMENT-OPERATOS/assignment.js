@@ -88,3 +88,7 @@ let t = d |= e;
 document.getElementById('l-1').innerHTML= r;
 document.getElementById('l-2').innerHTML= s;
 document.getElementById('l-3').innerHTML= t;
+
+
+
+document.getElementById("home").innerHTML= "Click here to return";

@@ -52,3 +52,7 @@ document.getElementById('c-5').innerHTML= i;
 document.getElementById('c-6').innerHTML= j;
 document.getElementById('c-7').innerHTML= k;
 document.getElementById('c-8').innerHTML= l;
+
+
+
+document.getElementById("home").innerHTML= "Click here to return";

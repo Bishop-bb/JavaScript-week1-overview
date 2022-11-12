@@ -53,3 +53,11 @@
         document.getElementById("ic").innerHTML= j ;
         document.getElementById("dc").innerHTML= k ;
         document.getElementById("opr").innerHTML= n ;
+
+
+
+        document.getElementById("home").innerHTML= "Click here to return";
+
+
+
+        

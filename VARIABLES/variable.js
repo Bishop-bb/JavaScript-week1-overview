@@ -24,3 +24,6 @@ const price1 = 9;
 const price2 = 3;
 let total = price1 + price2
 document.getElementById('cst').innerHTML= total;
+
+
+document.getElementById("home").innerHTML= "Click here to return";

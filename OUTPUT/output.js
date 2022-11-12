@@ -10,3 +10,6 @@ document.getElementById('d4').innerHTML="4. console.log";
 document.getElementById('d-4').innerHTML="4. This is used for debugging purposes";
 
 window.alert('JavaScript Output');
+
+
+document.getElementById("home").innerHTML= "Click here to return";

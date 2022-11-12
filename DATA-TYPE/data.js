@@ -36,3 +36,9 @@ document.getElementById('cur').innerHTML="Objects are written with curly brace, 
 
 document.getElementById('d6').innerHTML="6. Undefined";
 document.getElementById('wit').innerHTML="A variable without a value is assigned the value undefined";
+
+
+
+
+
+document.getElementById("home").innerHTML= "Click here to return";
